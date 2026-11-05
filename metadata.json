@@ -1,0 +1,6 @@
+{
+  "name": "Moon Rat — Web3 Meme Universe",
+  "description": "The official Web3 ecosystem, narrative lore, and Meme Lab for Moon Rat ($MRAT). The rat is going to the moon.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
